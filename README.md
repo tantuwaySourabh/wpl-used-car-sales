@@ -33,6 +33,66 @@ As seen in the screen show the cars collection stores all the important details 
 ## Tools and Technologies Used:
 For implementation of this website following languages and frameworks are used. 
 Client-side:
+*	React framework
+*	Javascript
+*	HTML, CSS and Bootstrap
+
+Server Side: 
+* Express Framework for NodeJS
+* Passport library for local authentication
+
+Database: 
+* MongoDB Atlas for hosting collections over cloud.
+
+
+## Mail Functionality:
+Login and Registration: 
+
+<img width="222" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/ac1e03ed-b7cf-4291-8774-5f919b00a027">
+<img width="223" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/cb968734-6896-4863-aafc-40839cae8f2f">
+
+Homepage (Browsing, Searching, Filtering and Sorting):
+
+<img width="486" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/6f5a54bc-5446-446e-a3cc-c8e645c85300">
+
+Car details and images:
+
+<img width="485" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/92a1c1fe-9740-44ba-a600-766c83208c90">
+
+Payment details:
+
+<img width="489" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/03dded29-cde0-40b7-b3b1-1909791d6df3">
+
+Wishlist:
+
+<img width="494" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/8f666220-a128-4742-b249-f65af0c6992e">
+
+Purchase History:
+
+<img width="494" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/b3fec42f-95aa-46f3-8360-808d1ece526c">
+
+Edit Item(Admin Page):
+
+<img width="493" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/5ee97489-2538-4644-8f88-58aeb0ae722a">
+
+Add Item(Admin Page):
+
+<img width="490" alt="image" src="https://github.com/tantuwaySourabh/wpl-used-car-sales/assets/26655938/1b872525-9a30-4847-90e0-30f42b274638">
+
+
+
+Video Demo Link: https://youtu.be/SQspNbTZzJQ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
